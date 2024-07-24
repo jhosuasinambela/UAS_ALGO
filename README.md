@@ -83,13 +83,13 @@ ID: 101 | Nama: Paku | Jumlah: 100 | Harga per unit: 500
 Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini, buat branch baru untuk perubahan Anda, dan buat pull request. Kami akan meninjau perubahan Anda dan mempertimbangkannya untuk penggabungan.
 
 
-# CHANGELOG - BE Dashboard RM
+# CHANGELOG - UAS ALGORITMA & PEMOGRAMAN
 
 The latest version of this file can be found at the main branch of the GitHub repository.
 
 ---
 
-## 1.3.20 (2024-07-18)
+## 1.0.0 (2024-07-25)
 
 Fixing:
 • fix(VALDATION-INPUT): Fixing validation input if number cannot be a string, so do the string cannot be number.
